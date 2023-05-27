@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>artistName</key>
+		<string>Sleep story 1</string>
+		<key>albumName</key>
+		<string>The first song</string>
+		<key>songName</key>
+		<string>sleep_1</string>
+		<key>albumArtwork</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Sleep story 2</string>
+		<key>albumName</key>
+		<string>The second song</string>
+		<key>songName</key>
+		<string>sleep_2</string>
+		<key>albumArtwork</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Sleep story 3</string>
+		<key>albumName</key>
+		<string>The third song</string>
+		<key>songName</key>
+		<string>sleep_3</string>
+		<key>albumArtwork</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Sleep story 4</string>
+		<key>albumName</key>
+		<string>The four song</string>
+		<key>songName</key>
+		<string>sleep_4</string>
+		<key>albumArtwork</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Sleep story 5</string>
+		<key>albumName</key>
+		<string>The five song</string>
+		<key>songName</key>
+		<string>sleep_5</string>
+		<key>albumArtwork</key>
+		<string>5</string>
+	</dict>
+</array>
+</plist>
